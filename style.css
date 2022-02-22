@@ -1,0 +1,12 @@
+  #main {
+    color: white;
+    width: 750px;
+  }
+  
+  .alert {
+    height: 350px;
+  }
+  
+  .alert-warning {
+    background: #000000;
+  }
